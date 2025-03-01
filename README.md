@@ -22,7 +22,7 @@ HRText Editor is a simple 🖊️ text editor built with 🐍 Python and 🎨 Tk
 1. Ensure 🐍 Python 3️⃣.x is installed.
 2. 📥 Clone the repo:
    ```sh
-   git clone https://github.com/your-username/hrtext-editor.git
+   git clone https://github.com/RamezHas/hrtext-editor.git
    cd hrtext-editor
    ```
 3. 🎨 Install Tkinter if needed:
